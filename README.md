@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @Milo369 :)
-- 👀 I’m interested in code
-<!---
-Milo369/Milo369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- i very love color green and blue actually black are really cool so i love it to
+- and i'm have my logo blue and um black
