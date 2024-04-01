@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Milo.;Mechanecical+Intestelar+Level+Operater" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&multiline=true&random=false&width=500&height=60&lines=Milo.;Mechanecical+Intestelar+Level+Operater)](https://git.io/typing-svg)
 
 <!--
 **Milo369/Milo369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
